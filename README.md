@@ -23,7 +23,7 @@ Skills: Flutter / Dart / Firebase
 
 - 📱 Flutter
 - Firebase
-- Dart
+- 💻 Dart
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imadevel0per)](https://github.com/anuraghazra/github-readme-stats)
