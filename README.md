@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Imad Eddarraz
-#### I am Flutter/Dart Developer
+#### I am Flutter/Dart Developer 💻
 ![I am Flutter/Dart Developer](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg)
 
 I'm Imad from Morocco, a flutter developer building beautiful apps for both Android and iOS with love, I really enjoy building mobile apps.
 
 Skills: Flutter / Dart / Firebase 
 
-
+### 🤝 Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imadevel0per)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/imad-eddarraz-373087177/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ImadEddarraz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCUMXZijAijpB-pqZpEorJTQ)  
 
