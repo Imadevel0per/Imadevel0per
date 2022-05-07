@@ -1,8 +1,6 @@
-<p align="center">
-  ### Hi there 👋, my name is Imad Eddarraz
-  #### I am Flutter/Dart Developer 💻
-  ![I am Flutter/Dart Developer](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg)
-</p>
+### Hi there 👋, my name is Imad Eddarraz
+#### I am Flutter/Dart Developer 💻
+![I am Flutter/Dart Developer](https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg)
 
 I'm Imad from Morocco, a flutter developer building beautiful apps for both Android and iOS with love, I really enjoy building mobile apps.
 
